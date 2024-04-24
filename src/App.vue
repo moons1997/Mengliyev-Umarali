@@ -97,42 +97,36 @@ const fields = ref([
     label: "id",
     thClass: "text-left",
     tdClass: "text-left",
-    sortable: true,
   },
   {
     key: "name",
     label: "name",
     thClass: "text-center",
     tdClass: "text-center",
-    sortable: true,
   },
   {
     key: "age",
     label: "age",
     thClass: "text-center",
     tdClass: "text-center",
-    sortable: true,
   },
   {
     key: "address",
     label: "address",
     thClass: "text-center",
     tdClass: "text-center",
-    sortable: true,
   },
   {
     key: "tags",
     label: "tags",
     thClass: "text-center",
     tdClass: "text-center",
-    sortable: true,
   },
   {
     key: "actions",
     label: "actions",
     thClass: "text-center",
     tdClass: "text-center",
-    sortable: true,
   },
 ]);
 </script>
